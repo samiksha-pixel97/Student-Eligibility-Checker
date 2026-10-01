@@ -1,1 +1,1 @@
-Student Eligibility Report===========================21BHI001 | Bunny | Eligible21BHI002 | Misbah | Debarred - Attendance21BHI003 | Anushka | Condonation Required21BHI004 | Samanyu | Eligible21BHI005 | Rishika | Debarred - Attendance
+Student Eligibility Report===========================21BHI001 | Bunny | Eligible21BHI002 | Misbah | Debarred - Attendance21BHI003 | Anushka | Condonation Required21BHI004 | Samanyu | Eligible21BHI005 | Rishika | Debarred - Attendance21BHI006 | Vaishnavi | Eligible
